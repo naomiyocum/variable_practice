@@ -13,3 +13,12 @@ weight = 135.5
 deposit_paid = false
 backend_program = true
 frontend_program = false
+
+email = "khaelabarleta@gmail.com"
+first_name = "Khaela"
+last_name = "Sanchez"
+
+puts "My email is #{email}."
+puts "The year I graduated high school is #{hs_graduation_year}."
+puts "It is #{backend_program} that I'm in a Back end Program."
+puts "I weight #{weight}."
